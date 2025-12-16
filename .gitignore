@@ -1,0 +1,35 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+.env/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
+
+# Raw and intermediate data (do not commit large MS files)
+*.mzML
+*.mzML.gz
+*.raw
+*.mgf
+*.mzXML
+*.mzData
+
+# Spreadsheets and large tables (keep only curated outputs)
+*.xlsx
+*.xls
+
+# CSVs: by default ignore, then explicitly un-ignore key outputs if desired
+*.csv
+!README*.csv
