@@ -23,13 +23,8 @@ A reproducible two-module pipeline for discovering **“hidden quinones”** in 
   - assign confidence calls,
   - output tables ready for figures and supplementary material.
 
-- `LICENSE`  
-  License for the code (MIT by default; can be updated if needed).
-
-- `CITATION.cff`  
-  Citation metadata so GitHub can display a “Cite this repository” panel.
-
 - `.gitignore`  
   Tells Git which files to ignore (e.g., raw MS data, large intermediate files, OS clutter).
 ---
+
 
