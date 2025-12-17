@@ -25,6 +25,11 @@ A reproducible two-module pipeline for discovering **“hidden quinones”** in 
 
 - `.gitignore`  
   Tells Git which files to ignore (e.g., raw MS data, large intermediate files, OS clutter).
+
+  ### Data availability
+Raw and processed LC–MS/MS data are available via MassIVE (ftp://massive-ftp.ucsd.edu/v11/MSV000100257/) and GNPS.
+
 ---
+
 
 
