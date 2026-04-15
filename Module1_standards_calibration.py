@@ -89,7 +89,7 @@ if core is None:
     @dataclass
     class CCPParams:
         USE_PPM: bool = True
-        DIAG_PPM: float = 40.0
+        DIAG_PPM: float = 5.0
         PPM_FOR_MERGE: float = 15.0
         FRAG_MZ_MARGIN_DA: float = 0.5
         PROTON: float = 1.007276466812
