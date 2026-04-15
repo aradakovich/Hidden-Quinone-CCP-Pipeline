@@ -38,7 +38,7 @@ import numpy as np
 class CCPParams:
     # Tolerances
     USE_PPM: bool = True
-    DIAG_PPM: float = 25.0 
+    DIAG_PPM: float = 5.0 
     PPM_FOR_MERGE: float = 10.0 
     FRAG_MZ_MARGIN_DA: float = 0.5
 
