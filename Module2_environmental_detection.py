@@ -80,7 +80,7 @@ class CCPParams:
     USE_PPM: bool = True
     PPM_TOL: float = 25.0
     PPM_FOR_MERGE: float = 15.0
-    DIAG_PPM: float = 25.0
+    DIAG_PPM: float = 5.0
 
     PROTON: float = 1.007276466812
     TAG_NEUTRAL_MASS: float = 1269.493187
